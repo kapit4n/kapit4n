@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on (React)...
+- 🌱 I’m currently learning (Scala)...
+- 📫 How to reach me: https://www.linkedin.com/in/luarce/
+
 <!--
 **kapit4n/kapit4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
